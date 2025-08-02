@@ -1,0 +1,2 @@
+# A-Fun-Calculator
+MY FIRST PROJECT - A SIMPLE CALCULATOR
